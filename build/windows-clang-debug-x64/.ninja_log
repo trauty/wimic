@@ -1,9 +1,0 @@
-# ninja log v6
-12	322	7748500615806406	CMakeFiles/wimic.dir/src/imgui/backends/imgui_impl_opengl3.cpp.obj	4b1a786e9f86fe6a
-4	382	7748500615721284	CMakeFiles/wimic.dir/src/imgui/imgui_tables.cpp.obj	541a223698605082
-6	527	7748500615741282	CMakeFiles/wimic.dir/src/imgui/imgui_draw.cpp.obj	67e735034827bbf6
-1	942	7748500615691282	CMakeFiles/wimic.dir/src/imgui/imgui.cpp.obj	43f1d686227f0f1
-10	435	7748500615786411	CMakeFiles/wimic.dir/src/imgui/backends/imgui_impl_glfw.cpp.obj	47b81e4c97897d
-8	605	7748500615766371	CMakeFiles/wimic.dir/src/imgui/imgui_widgets.cpp.obj	e321775df726f558
-3	592	7748500910597238	CMakeFiles/wimic.dir/src/main.cpp.obj	b21e23decf432462
-595	672	7748500916517183	bin/wimic.exe	eb11faacc11e8a4b
